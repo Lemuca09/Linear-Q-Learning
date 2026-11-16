@@ -143,8 +143,8 @@ w ← w + α · δ · φ(s, a)
 - [Cabal](https://www.haskell.org/cabal/) ≥ 3.6 (or [Stack](https://docs.haskellstack.org/))
 
 ```bash
-git clone https://github.com/<your-user>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/Lemuca09/Linear-Q-Learning.git
+cd Linear-Q-Learning
 cabal build
 ```
 
